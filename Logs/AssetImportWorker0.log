@@ -1151,3 +1151,51 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1461.948061 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(201065c3c731db049b5d3268340262fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(201065c3c731db049b5d3268340262fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aab14b7d4418d5d668fb3481e848223') in 0.005193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.421069 seconds.
+  path: Assets/Animaciones
+  artifactKey: Guid(a9fabcb9fbd30554aafb579a0319adb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones using Guid(a9fabcb9fbd30554aafb579a0319adb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0edb24b7287be5edbf98a7ef2c7f11e') in 0.000697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.549001 seconds.
+  path: Assets/Audio/Coin.wav
+  artifactKey: Guid(2f95b378698677345b0d99e848999b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Coin.wav using Guid(2f95b378698677345b0d99e848999b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b302078ad5e5ebd4061296f61747089a') in 0.221711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Audio/sonido bolsa monedas.mp3
+  artifactKey: Guid(a3a5fa425c4ba1f4ca7faf539263d03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/sonido bolsa monedas.mp3 using Guid(a3a5fa425c4ba1f4ca7faf539263d03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74321f2952cf994a1fe667c701aea360') in 0.027569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Audio/sonic the hedgehog Sonic Death sound effect.mp3
+  artifactKey: Guid(843e07b66049e4345a71749657c6510d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/sonic the hedgehog Sonic Death sound effect.mp3 using Guid(843e07b66049e4345a71749657c6510d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379fbbc33a71416c986abf3d1fb8387a') in 0.022261 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Audio/MusicaFONDOYUVI.mp3
+  artifactKey: Guid(f95d181a1584cc847baec7b1fee0587f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/MusicaFONDOYUVI.mp3 using Guid(f95d181a1584cc847baec7b1fee0587f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6663268780e9aa23182ff408a6b0bdfd') in 0.013570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
